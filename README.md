@@ -1,29 +1,8 @@
 # vue-cursor-se
 
-## Project setup
-```
-npm install
-```
+## これは失敗作です
 
-### Compiles and hot-reloads for development
 ```
-npm run serve
+NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+これが鬼のように出るから。
